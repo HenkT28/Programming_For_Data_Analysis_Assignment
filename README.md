@@ -56,11 +56,13 @@ I strongly recommend installing Python and Jupyter using the Anaconda Distributi
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
 I'll be using Jupyter Notebook not Jupyter Lab in this assignment.
-Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc. and is largely used for data analysis, data visualization and further interactive, exploratory computing.
-JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
+
+* Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc. and is largely used for data analysis, data visualization and further interactive, exploratory computing.
+
+* JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
 
 <https://jupyter.org/install>
 
-2; I'll be using Cmder software to re-direct to the Programming_For_Data_Analysis_Assignment directory locally, from there I will launch jupyter and make the changes:
+2; I'll be using Cmder software to re-direct to the Programming_For_Data_Analysis_Assignment directory locally, from there I will launch "jupyter notebook" command and make the changes to the notebook:
 
 <https://cmder.net/>
