@@ -10,7 +10,7 @@ This repository contains all my work for Programming for Data Analysis Assignmen
 
 <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git>
 
-Then open up cmder (see futher below) and run below command to clone the repository locally on your machine:
+Then open up cmder (see futher below for download instructions) and run below command to clone the repository locally on your machine:
 * git clone https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git
 
 ## Problem statement
@@ -34,7 +34,13 @@ GMIT email address: G00376321@gmit.ie
 
 ### Prerequisites - how to run the code
 
-1; Make sure you have Python installed, or even better Anaconda:
+1; I'll be using Cmder software from where I will re-direct to the Programming_For_Data_Analysis_Assignment directory I created locally:
+
+<https://cmder.net/>
+
+Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
+
+2; Also make sure you have Python installed, or even better Anaconda:
 
 [a] <https://www.python.org/downloads/>
 
@@ -51,7 +57,7 @@ Anaconda3 includes Python 3.7.
 
 [c] Jupyter:
 
-I strongly recommend installing Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+I strongly recommend installing Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science (including NumPy, Pandas and Matplotlib).
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
@@ -61,8 +67,63 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment.
 
 * JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
 
+Once I'm in the Programming_For_Data_Analysis_Assignment directory, I will then launch "jupyter notebook" command and make the changes to the notebook.
+
+To see the content of the jupyter file, i.e. Programming_Assignment.ipynb, just go to my my github account online and repository <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment)>.
+
 <https://jupyter.org/install>
 
-2; I'll be using Cmder software to re-direct to the Programming_For_Data_Analysis_Assignment directory locally, from there I will launch "jupyter notebook" command and make the changes to the notebook:
+## References
+
+[1] Software Freedom Conservancy. Git.
+<https://git-scm.com/.>
+
+[2] NumPy developers. Numpy.
+<http://www.numpy.org/.>
+
+[3] Inc. GitHub. Github.
+<https://github.com/.>
+
+[4] GMIT. Quality assurance framework.
+<https://www.gmit.ie/general/quality-assurance-framework.>
+
+[5] Project Jupyter. Project jupyter home.
+<http://jupyter.org/.>
+
+[6] Practical NumPy — Understanding Python library through its functions.
+
+<https://towardsdatascience.com/practical-numpy-understanding-python-library-through-its-functions-adf2e3841894>
+
+[7] NumPy random numbers
+
+<https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/2/ch02lvl1sec16/numpy-random-numbers>
+
+[8] Anaconda
+
+<https://docs.anaconda.com/anaconda/>
+
+[9] Python
+
+<https://www.python.org/downloads/>
+
+[10] Cmder software
 
 <https://cmder.net/>
+
+[11] Numpy
+
+<https://docs.scipy.org/doc/numpy/user/whatisnumpy.html>
+
+[12] Python for Data Analysis - Data Wrangling with Pandas, NumPy, and IPython
+
+<http://shop.oreilly.com/product/0636920023784.do>
+
+[13] <https://stackoverflow.com/questions/7029993/differences-between-numpy-random-and-random-random-in-python>
+
+[14] <https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf>
+
+[15] <https://www.sharpsightlabs.com/blog/numpy-random-seed/>
+
+[16] <https://pynative.com/python-random-module/>
+
+[17] <https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o>
