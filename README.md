@@ -38,7 +38,7 @@ GMIT email address: G00376321@gmit.ie
 
 [a] <https://www.python.org/downloads/>
 
-Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use. 
+Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use.
 
 [b] Anaconda:
 
@@ -51,36 +51,16 @@ Anaconda3 includes Python 3.7.
 
 [c] Jupyter:
 
-We strongly recommend installing Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+I strongly recommend installing Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
+I'll be using Jupyter Notebook not Jupyter Lab in this assignment.
+Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc. and is largely used for data analysis, data visualization and further interactive, exploratory computing.
+JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
+
 <https://jupyter.org/install>
 
-2; We'll be using Cmder software for launching "jupyter notebook" in the appropriate Programming_For_Data_Analysis_Assignment directory locally:
+2; I'll be using Cmder software to re-direct to the Programming_For_Data_Analysis_Assignment directory locally, from there I will launch jupyter and make the changes:
 
 <https://cmder.net/>
-
-### Reading script code
-
-If you want to read the script code, and accompanying Problem Assessment README, most text editors would be sufficient, but I recommend notepad ++ or even better visual studio code. 
-
-https://code.visualstudio.com/
-
-<https://code.visualstudio.com/download>
-
-It's a free and open source. It has Integrated Git, debugging and extensions. 
-
-It can be accessed from Cmder prompt, by typing the following shortcut:
-
-λ code .
-
-<https://code.visualstudio.com/docs/setup/windows>
-
-Tip:
-
-Setup will add Visual Studio Code to your %PATH%, so from the console you can type 'code .' to open VS Code on that folder.
-
-[a] Make sure you go to the directory first containing the python scripts.
-
-[b] Once you're in the correct directory, enter the shortcut command, and keep in mind there is a space between word code and the dot.
