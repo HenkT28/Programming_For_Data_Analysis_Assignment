@@ -127,3 +127,9 @@ To see the content of the jupyter file, i.e. Programming_Assignment.ipynb, just 
 [16] <https://pynative.com/python-random-module/>
 
 [17] <https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o>
+
+[18] <https://stackoverflow.com/questions/19389910/in-python-numpy-what-is-a-dimension-and-axis>
+
+[19] <https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/>
+
+[20] <https://blog.quantinsti.com/python-numpy-tutorial-installation-arrays-random-sampling/#Random%20Sampling%20in%20NumPy>
