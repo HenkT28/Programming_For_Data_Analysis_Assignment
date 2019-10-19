@@ -133,3 +133,9 @@ To see the content of the jupyter file, i.e. Programming_Assignment.ipynb, just 
 [19] <https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/>
 
 [20] <https://blog.quantinsti.com/python-numpy-tutorial-installation-arrays-random-sampling/#Random%20Sampling%20in%20NumPy>
+
+[21] <https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do>
+
+[22] <https://numpy.org/devdocs/reference/random/index.html>
+
+[23] <https://numpy.org/doc/1.17/reference/random/index.html>
