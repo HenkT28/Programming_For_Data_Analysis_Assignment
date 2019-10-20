@@ -139,3 +139,11 @@ To see the content of the jupyter file, i.e. Programming_Assignment.ipynb, just 
 [22] <https://numpy.org/devdocs/reference/random/index.html>
 
 [23] <https://numpy.org/doc/1.17/reference/random/index.html>
+
+[24] <https://docs.scipy.org/doc/numpy/reference/random/index.html>
+
+[25] <https://pynative.com/python-random-shuffle/>
+
+[26] <https://appliedmachinelearning.blog/2018/08/31/lets-talk-about-numeric-distributions-python/>
+
+[27] <http://queirozf.com/entries/numpy-distributions-and-statistical-functions-examples-reference#sample-from-normal-distribution>
