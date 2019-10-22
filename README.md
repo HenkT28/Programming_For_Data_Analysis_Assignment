@@ -11,7 +11,8 @@ This repository contains all my work for Programming for Data Analysis Assignmen
 <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git>
 
 Then open up cmder (see futher below for download instructions) and run below command to clone the repository locally on your machine:
-* git clone https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git
+
+* git clone <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git>
 
 ## Problem statement
 
