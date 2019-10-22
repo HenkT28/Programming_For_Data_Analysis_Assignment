@@ -146,7 +146,7 @@ To see the content of the jupyter file, i.e. Programming_Assignment.ipynb, just 
 
 [26] <https://appliedmachinelearning.blog/2018/08/31/lets-talk-about-numeric-distributions-python/>
 
-[27] <http://queirozf.com/entries/numpy-distributions-and-statistical-functions-examples-reference#sample-from-normal-distributio
+[27] <<http://queirozf.com/entries/numpy-distributions-and-statistical-functions-examples-reference#sample-from-normal-distributio>
 
 [28] <https://discuss.codecademy.com/t/what-does-the-np-random-normal-function-return/359431>
 
