@@ -146,4 +146,28 @@ To see the content of the jupyter file, i.e. Programming_Assignment.ipynb, just 
 
 [26] <https://appliedmachinelearning.blog/2018/08/31/lets-talk-about-numeric-distributions-python/>
 
-[27] <http://queirozf.com/entries/numpy-distributions-and-statistical-functions-examples-reference#sample-from-normal-distribution>
+[27] <http://queirozf.com/entries/numpy-distributions-and-statistical-functions-examples-reference#sample-from-normal-distributio
+
+[28] <https://discuss.codecademy.com/t/what-does-the-np-random-normal-function-return/359431>
+
+[29] <https://machinelearningmastery.com/a-gentle-introduction-to-calculating-normal-summary-statistics/>
+
+[30] <https://data-flair.training/blogs/python-probability-distributions/>
+
+[31] <http://www.learningaboutelectronics.com/Articles/How-to-create-a-normal-distribution-plot-in-Python-with-numpy-and-matplotlib.php>
+
+[32] <https://towardsdatascience.com/fun-with-the-binomial-distribution-96a5ecabf65b>
+
+[33] <https://discuss.codecademy.com/t/what-does-the-np-random-binomial-function-return/361162>
+
+[34] <https://stackoverflow.com/questions/22744577/plotting-basic-uniform-distribution-on-python>
+
+[35] <https://thatascience.com/learn-numpy/normal-vs-uniform/>
+
+[36] <https://www.somesolvedproblems.com/2019/04/real-life-examples-of-various.html>
+
+[37] <https://www.datacamp.com/community/tutorials/probability-distributions-python>
+
+[38] <https://docs.w3cub.com/numpy~1.14/generated/numpy.random.poisson/>
+
+[40] <https://numpy.org/devdocs/reference/random/generated/numpy.random.Generator.standard_gamma.html>
