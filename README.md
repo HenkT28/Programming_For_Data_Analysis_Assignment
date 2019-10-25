@@ -33,21 +33,13 @@ Student: Henk Tjalsma
 
 GMIT email address: G00376321@gmit.ie
 
-### Prerequisites - how to run the code
+## Installing Cmder and Ananconda (which includes NumPy, Jupyter), and HowTo run Jupyter
 
-1; I'll be using Cmder software from where I will re-direct to the Programming_For_Data_Analysis_Assignment directory I created locally:
+To answer the four distinct tasks, it was required of me to install some software packages:
 
-<https://cmder.net/>
+* To install NumPy [2] on your local machine, I would advise you to download the anaconda package distribution [8], which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
 
-Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
-
-2; Also make sure you have Python installed, or even better Anaconda:
-
-[a] <https://www.python.org/downloads/>
-
-Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use.
-
-[b] Anaconda:
+Anaconda supports Windows, Mac and Linux.
 
 <https://www.anaconda.com/distribution/>
 
@@ -56,119 +48,18 @@ Python is developed under an OSI-approved open source license, making it freely 
 Anaconda® is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 1,500+ open source packages. Anaconda is free and easy to install, and it offers free community support.
 Anaconda3 includes Python 3.7.
 
-[c] Jupyter:
+* The Jupyter Notebook [5] is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-I strongly recommend installing Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science (including NumPy, Pandas and Matplotlib).
+I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the difference between the 2 interfaces):
 
-The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+-> Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc. and is largely used for data analysis, data visualization and further interactive, exploratory computing.
 
-I'll be using Jupyter Notebook not Jupyter Lab in this assignment.
-
-* Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc. and is largely used for data analysis, data visualization and further interactive, exploratory computing.
-
-* JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
-
-Once I'm in the Programming_For_Data_Analysis_Assignment directory, I will then launch "jupyter notebook" command and make the changes to the notebook.
-
-To see the content of the jupyter file, i.e. Programming_Assignment.ipynb, just go to my my github account online and repository <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment)>.
+-> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
 
 <https://jupyter.org/install>
 
-## References
-
-[1] Software Freedom Conservancy. Git.
-<https://git-scm.com/.>
-
-[2] NumPy developers. Numpy.
-<http://www.numpy.org/.>
-
-[3] Inc. GitHub. Github.
-<https://github.com/.>
-
-[4] GMIT. Quality assurance framework.
-<https://www.gmit.ie/general/quality-assurance-framework.>
-
-[5] Project Jupyter. Project jupyter home.
-<http://jupyter.org/.>
-
-[6] Practical NumPy — Understanding Python library through its functions.
-
-<https://towardsdatascience.com/practical-numpy-understanding-python-library-through-its-functions-adf2e3841894>
-
-[7] NumPy random numbers
-
-<https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/2/ch02lvl1sec16/numpy-random-numbers>
-
-[8] Anaconda
-
-<https://docs.anaconda.com/anaconda/>
-
-[9] Python
-
-<https://www.python.org/downloads/>
-
-[10] Cmder software
+* Cmder is a software package which provides a nice command line interface on Windows [10].
 
 <https://cmder.net/>
 
-[11] Numpy
-
-<https://docs.scipy.org/doc/numpy/user/whatisnumpy.html>
-
-[12] Python for Data Analysis - Data Wrangling with Pandas, NumPy, and IPython
-
-<http://shop.oreilly.com/product/0636920023784.do>
-
-[13] <https://stackoverflow.com/questions/7029993/differences-between-numpy-random-and-random-random-in-python>
-
-[14] <https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf>
-
-[15] <https://www.sharpsightlabs.com/blog/numpy-random-seed/>
-
-[16] <https://pynative.com/python-random-module/>
-
-[17] <https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o>
-
-[18] <https://stackoverflow.com/questions/19389910/in-python-numpy-what-is-a-dimension-and-axis>
-
-[19] <https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/>
-
-[20] <https://blog.quantinsti.com/python-numpy-tutorial-installation-arrays-random-sampling/#Random%20Sampling%20in%20NumPy>
-
-[21] <https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do>
-
-[22] <https://numpy.org/devdocs/reference/random/index.html>
-
-[23] <https://numpy.org/doc/1.17/reference/random/index.html>
-
-[24] <https://docs.scipy.org/doc/numpy/reference/random/index.html>
-
-[25] <https://pynative.com/python-random-shuffle/>
-
-[26] <https://appliedmachinelearning.blog/2018/08/31/lets-talk-about-numeric-distributions-python/>
-
-[27] <<http://queirozf.com/entries/numpy-distributions-and-statistical-functions-examples-reference#sample-from-normal-distributio>
-
-[28] <https://discuss.codecademy.com/t/what-does-the-np-random-normal-function-return/359431>
-
-[29] <https://machinelearningmastery.com/a-gentle-introduction-to-calculating-normal-summary-statistics/>
-
-[30] <https://data-flair.training/blogs/python-probability-distributions/>
-
-[31] <http://www.learningaboutelectronics.com/Articles/How-to-create-a-normal-distribution-plot-in-Python-with-numpy-and-matplotlib.php>
-
-[32] <https://towardsdatascience.com/fun-with-the-binomial-distribution-96a5ecabf65b>
-
-[33] <https://discuss.codecademy.com/t/what-does-the-np-random-binomial-function-return/361162>
-
-[34] <https://stackoverflow.com/questions/22744577/plotting-basic-uniform-distribution-on-python>
-
-[35] <https://thatascience.com/learn-numpy/normal-vs-uniform/>
-
-[36] <https://www.somesolvedproblems.com/2019/04/real-life-examples-of-various.html>
-
-[37] <https://www.datacamp.com/community/tutorials/probability-distributions-python>
-
-[38] <https://docs.w3cub.com/numpy~1.14/generated/numpy.random.poisson/>
-
-[40] <https://numpy.org/devdocs/reference/random/generated/numpy.random.Generator.standard_gamma.html>
+I use Cmder for changing the working directory on my local machine, i.e. Programming_For_Data_Analysis_Assignment, from there I launch "jupyter notebook" command, and make changes to it.
