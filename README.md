@@ -1,6 +1,10 @@
 # Programming_For_Data_Analysis_Assignment repository
 
-This repository contains all my work for Programming for Data Analysis Assignment 2019. To access the repository, please go through below instructions.
+This repository contains all my work for Programming for Data Analysis Assignment 2019.
+
+It contains background info, instructions, and research concerning the numpy.random package in Python [2].
+
+To access the repository, please go through below instructions.
 
 1; Go to Github web site - User Account: HenkT28
 
@@ -14,10 +18,13 @@ Then open up cmder (see futher below for download instructions) and run below co
 
 * git clone <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git>
 
+Student: Henk Tjalsma
+
+GMIT email address: G00376321@gmit.ie
+
 ## Problem statement
 
-This readme contains background info, instructions, and research concerning the numpy.random package in Python [2].
-I was required to create a Jupyter [5] notebook explaining the use of the package, including detailed explanations of at least five of the distributions provided for in the package.
+I was required to create a Jupyter [5] notebook explaining the use of the numpy.random package, including detailed explanations of at least five of the distributions provided for in the package.
 
 There are four distinct tasks to be carried out in your Jupyter notebook:
 
@@ -28,10 +35,6 @@ There are four distinct tasks to be carried out in your Jupyter notebook:
 3. Explain the use and purpose of at least five “Distributions” functions.
 
 4. Explain the use of seeds in generating pseudorandom numbers.
-
-Student: Henk Tjalsma
-
-GMIT email address: G00376321@gmit.ie
 
 ## Installing Cmder and Ananconda (which includes NumPy, Jupyter), and HowTo run Jupyter
 
