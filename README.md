@@ -18,9 +18,9 @@ Then open up cmder (see futher below for download instructions) and run below co
 
 * git clone <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git>
 
-##### STUDENT: Henk Tjalsma
+STUDENT: Henk Tjalsma
 
-##### GMIT email address: G00376321@gmit.ie
+GMIT email address: G00376321@gmit.ie
 
 ## Problem statement
 
