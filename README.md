@@ -63,7 +63,7 @@ In my case as I have Anaconda installed, there was no need to download it separa
 
 I use Cmder (command line interface) for changing the working directory on my local machine, i.e. Programming_For_Data_Analysis_Assignment, from there I launch "jupyter notebook" command, and make changes to it.
 
-* Visual Studio Code
+* Visual Studio Code is a lightweight but powerful source code editor.
 
 <https://code.visualstudio.com/>
 
