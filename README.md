@@ -36,11 +36,11 @@ There are four distinct tasks to be carried out in this Jupyter notebook:
 
 4. Explain the use of seeds in generating pseudorandom numbers.
 
-## Installing Cmder and Ananconda (which includes NumPy, Jupyter), and HowTo run Jupyter
+## Installing Cmder, VS Code and Ananconda (which includes NumPy, Jupyter)
 
-To answer the four distinct tasks, it was required of me to install some software packages:
+To answer the four distinct tasks, I installed and used below software packages:
 
-* To install NumPy [2] on your local machine, I would advise you to download the anaconda package distribution [8], which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
+* To install NumPy [2] on your local machine, I would advise you to download the anaconda package distribution [8] instead, which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
 
 Anaconda supports Windows, Mac and Linux.
 
@@ -53,11 +53,7 @@ Anaconda3 includes Python 3.7.
 
 * The Jupyter Notebook [5] is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the difference between the 2 interfaces):
-
--> Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc, and is largely used for data analysis, data visualization and further interactive, exploratory computing.
-
--> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
+In my case as I have Anaconda installed, there was no need to download it separately.
 
 <https://jupyter.org/install>
 
@@ -66,3 +62,21 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 <https://cmder.net/>
 
 I use Cmder (command line interface) for changing the working directory on my local machine, i.e. Programming_For_Data_Analysis_Assignment, from there I launch "jupyter notebook" command, and make changes to it.
+
+* Visual Studio Code
+
+<https://code.visualstudio.com/>
+
+VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools. [52]
+
+I use it to make changes to the readme in my repository.
+
+## HowTo run Jupyter notebook
+
+I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the difference between the 2 interfaces):
+
+-> Jupyter Notebook is a web-based interactive computational environment for creating Jupyter notebooks documents. It supports several languages like Python (IPython), Julia, R etc, and is largely used for data analysis, data visualization and further interactive, exploratory computing.
+
+-> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
+
+Once I'm in the correct working directory, I start jupyter by running "jupyter notebook" command through Cmder.
