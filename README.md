@@ -2,7 +2,7 @@
 
 This repository contains all my work for Programming for Data Analysis Assignment 2019.
 
-It contains background info, instructions, and research concerning the numpy.random package in Python [2].
+It contains background info and research concerning the numpy.random package in Python [2].
 
 To access the repository, please go through below instructions.
 
@@ -24,7 +24,7 @@ GMIT email address: G00376321@gmit.ie
 
 ## Problem statement
 
-I was required to create a Jupyter [5] notebook explaining the use of the numpy.random package, including detailed explanations of at least five of the distributions provided in the package.
+I created this Jupyter [5] notebook explaining the use of the numpy.random package, including detailed explanations of at least five of the distributions provided in the package.
 
 There are four distinct tasks to be carried out in this Jupyter notebook:
 
@@ -38,9 +38,17 @@ There are four distinct tasks to be carried out in this Jupyter notebook:
 
 ## Installing Cmder, VS Code and Ananconda (which includes NumPy, Jupyter)
 
-To answer the four distinct tasks, I installed and used below software packages:
+To answer these four tasks, I installed and used a number of different software packages:
 
-* To install NumPy [2] on your local machine, I would advise you to download the anaconda package distribution [8] instead, which installs python [9] and other important python libraries including NumPy, Pandas and Matplotlib (useful for machine learning).
+* Anaconda Distribution
+
+The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X. With over 15 million users worldwide, it is the industry standard for developing, testing, and training on a single machine, enabling individual data scientists to:
+
+    Quickly download 1,500+ Python/R data science packages
+    Manage libraries, dependencies, and environments with Conda
+    Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano
+    Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
+    Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
 
 Anaconda supports Windows, Mac and Linux.
 
@@ -51,25 +59,49 @@ Anaconda supports Windows, Mac and Linux.
 Anaconda® is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 1,500+ open source packages. Anaconda is free and easy to install, and it offers free community support.
 Anaconda3 includes Python 3.7.
 
-* The Jupyter Notebook [5] is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+* NumPy
 
-In my case as I have Anaconda installed, there was no need to download it separately.
+To use NumPy [2] on the local machine, I downloaded and installed anaconda package distribution [8], which installs Python [9] and other important Python libraries including NumPy, Pandas, Seaborn, Matplotlib and SciPy (useful for machine learning).
 
-<https://jupyter.org/install>
+* Jupyter Notebook
 
-* Cmder is a software package which provides a nice command line interface on Windows [10].
+The Jupyter Notebook [5] is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+As the Anaconda Distribution includes the Jupyter Notebook as well, there was no need to download and install it separately.
+
+* Pandas
+
+Pandas is a common Python tool for data manipulation and analysis, and is included with Anaconda.
+
+* Seaborn
+
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. Again it comes installed with Anaconda.
+
+* Matplotlib
+
+Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution.
+
+* SciPy
+
+SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+
+* Cmder
+
+Cmder is a software package which provides a nice command line interface on Windows [10].
 
 <https://cmder.net/>
 
-I use Cmder (command line interface) for changing the working directory on my local machine, i.e. Programming_For_Data_Analysis_Assignment, from there I launch "jupyter notebook" command, and make changes to it.
+I use Cmder (command line interface) for changing the working directory on my local machine, i.e. Programming_For_Data_Analysis_Assignment, from there I launch Jupyter notebook.
 
-* Visual Studio Code is a lightweight but powerful source code editor.
+* Visual Studio Code
+
+VS Code is a lightweight but powerful source code editor.
+
+It is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools. [52]
 
 <https://code.visualstudio.com/>
 
-VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools. [52]
-
-I use it to make changes to the readme in my repository.
+I used it to make changes to the readme in my repository.
 
 ## HowTo run Jupyter notebook
 
@@ -79,4 +111,4 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 
 -> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
 
-Once I'm in the correct working directory, I start jupyter by running "jupyter notebook" command through Cmder.
+Once I'm in the correct working directory, i.e. Programming_For_Data_Analysis_Assignment, I start Jupyter by running "jupyter notebook" command through Cmder.
