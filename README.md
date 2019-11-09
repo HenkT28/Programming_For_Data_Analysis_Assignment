@@ -26,7 +26,7 @@ GMIT email address: G00376321@gmit.ie
 
 I created this Jupyter [5] notebook explaining the use of the numpy.random package, including detailed explanations of at least five of the distributions provided in the package.
 
-There are four distinct tasks to be carried out in this Jupyter notebook:
+There are four distinct tasks I carried out in this Jupyter notebook:
 
 1. Explain the overall purpose of the package.
 
