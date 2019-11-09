@@ -102,9 +102,9 @@ SciPy is a Python-based ecosystem of open-source software for mathematics, scien
 
 Cmder is a software package which provides a nice command line interface on Windows [10].
 
-<https://cmder.net/>
-
 I use Cmder (command line interface) for changing the working directory on my local machine, i.e. Programming_For_Data_Analysis_Assignment, from there I launch Jupyter notebook.
+
+<https://cmder.net/>
 
 * Visual Studio Code
 
@@ -112,9 +112,9 @@ VS Code is a lightweight but powerful source code editor.
 
 It is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools. [52]
 
-<https://code.visualstudio.com/>
-
 I used it to make changes to the readme in my repository.
+
+<https://code.visualstudio.com/>
 
 ## HowTo run Jupyter notebook
 
