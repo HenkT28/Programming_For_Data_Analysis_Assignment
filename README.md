@@ -125,3 +125,5 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 -> JupyterLab is a popular 'new' interface for working with Jupyter Notebooks. It is an interactive development environment for working with notebooks, code and data — and hence extremely extensible.
 
 Once I'm in the correct working directory, i.e. Programming_For_Data_Analysis_Assignment, I start Jupyter by running "jupyter notebook" command through Cmder.
+
+The jupyter notebook is called Programming_Assignment.ipynb, and contains the body of work.
