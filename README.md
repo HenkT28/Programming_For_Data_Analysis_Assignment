@@ -46,11 +46,11 @@ The open-source Anaconda Distribution is the easiest way to perform Python/R dat
 
 It is the industry standard for developing, testing, and training on a single machine, enabling individual data scientists to:
 
-    Quickly download 1,500+ Python/R data science packages
-    Manage libraries, dependencies, and environments with Conda
-    Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano
-    Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
-    Visualize results with Matplotlib, Seaborn, Bokeh, Datashader, and Holoviews
+    Quickly download 1,500+ Python/R data science packages.
+    Manage libraries, dependencies, and environments with Conda.
+    Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano.
+    Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba.
+    Visualize results with Matplotlib, Seaborn, Bokeh, Datashader, and Holoviews.
 
 Anaconda is free and easy to install, and it offers free community support.
 
