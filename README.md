@@ -42,26 +42,23 @@ To answer these four tasks, I installed and used a number of different software 
 
 * Anaconda Distribution
 
-The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X. With over 15 million users worldwide, it is the industry standard for developing, testing, and training on a single machine, enabling individual data scientists to:
+The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X. [8]
+
+It is the industry standard for developing, testing, and training on a single machine, enabling individual data scientists to:
 
     Quickly download 1,500+ Python/R data science packages
     Manage libraries, dependencies, and environments with Conda
     Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano
     Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
-    Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
+    Visualize results with Matplotlib, Seaborn, Bokeh, Datashader, and Holoviews
 
-Anaconda supports Windows, Mac and Linux.
+Anaconda is free and easy to install, and it offers free community support.
+
+Anaconda3 includes Python 3.7.
 
 <https://www.anaconda.com/distribution/>
 
 <https://docs.anaconda.com/anaconda/>
-
-Anaconda® is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 1,500+ open source packages. Anaconda is free and easy to install, and it offers free community support.
-Anaconda3 includes Python 3.7.
-
-* NumPy
-
-To use NumPy [2] on the local machine, I downloaded and installed anaconda package distribution [8], which installs Python [9] and other important Python libraries including NumPy, Pandas, Seaborn, Matplotlib and SciPy (useful for machine learning).
 
 * Jupyter Notebook
 
@@ -69,21 +66,37 @@ The Jupyter Notebook [5] is an open-source web application that allows you to cr
 
 As the Anaconda Distribution includes the Jupyter Notebook as well, there was no need to download and install it separately.
 
+<https://jupyter.org/install>
+
+* NumPy
+
+To use NumPy [2] on the local machine, I downloaded and installed anaconda package distribution, which installs Python [9] and other important Python libraries including NumPy, Pandas, Seaborn, Matplotlib and SciPy (useful for machine learning).
+
+It contains among other things:
+
+    A powerful N-dimensional array object.
+
+    Sophisticated (broadcasting) functions.
+
+    Tools for integrating C/C++ and Fortran code.
+
+    Useful linear algebra, Fourier transform, and random number capabilities.
+
 * Pandas
 
-Pandas is a common Python tool for data manipulation and analysis, and is included with Anaconda.
+Pandas is a common Python tool for data manipulation and analysis, and is included with Anaconda. [55]
 
 * Seaborn
 
-Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. Again it comes installed with Anaconda.
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. Again it comes installed with Anaconda. [57]
 
 * Matplotlib
 
-Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution.
+Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution. [56]
 
 * SciPy
 
-SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering. [58]
 
 * Cmder
 
