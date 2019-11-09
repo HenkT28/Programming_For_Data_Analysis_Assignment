@@ -16,7 +16,7 @@ To access the repository, please go through below instructions.
 
 Then open up cmder (see futher below for download instructions) and run below command to clone the repository locally on your machine:
 
-* git clone <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git> (remove the <> before running the git clone command)
+* git clone <https://github.com/HenkT28/Programming_For_Data_Analysis_Assignment.git>
 
 STUDENT: Henk Tjalsma
 
