@@ -126,4 +126,4 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 
 Once I'm in the correct working directory, i.e. Programming_For_Data_Analysis_Assignment, I start Jupyter by running "jupyter notebook" command through Cmder.
 
-The jupyter notebook is called Programming_Assignment.ipynb, and contains the body of work.
+The jupyter notebook is called Programming_Assignment.ipynb, and contains the body of my work.
