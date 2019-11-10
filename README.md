@@ -92,7 +92,7 @@ Seaborn is a Python visualization library based on matplotlib. It provides a hig
 
 * Matplotlib
 
-Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution. [56]
+Matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and six graphical user interface toolkits. It comes with anaconda package distribution. [56]
 
 * SciPy
 
