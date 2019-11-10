@@ -4,7 +4,7 @@ This repository contains all my work for Programming for Data Analysis Assignmen
 
 It contains background info and research concerning the numpy.random package in Python [2].
 
-To access the repository, please go through below instructions.
+To access the repository, please go through below instructions:
 
 1). Go to Github web site - User Account: HenkT28
 
