@@ -70,7 +70,7 @@ As the Anaconda Distribution includes the Jupyter Notebook as well, there was no
 
 * NumPy
 
-To use NumPy [2] on the local machine, I downloaded and installed anaconda package distribution, which installs Python [9] and other important Python libraries including NumPy, Pandas, Seaborn, Matplotlib and SciPy (useful for machine learning).
+To use NumPy on the local machine, I downloaded and installed anaconda package distribution, which installs Python [9] and other important Python libraries including NumPy, Pandas, Seaborn, Matplotlib and SciPy (useful for machine learning).
 
 It contains among other things:
 
