@@ -2,7 +2,7 @@
 
 This repository contains all my work for Programming for Data Analysis Assignment 2019.
 
-It contains background info and research concerning the numpy.random package in Python [2].
+It contains background info and research concerning the numpy.random package in Python. [2]
 
 To access the repository, please go through below instructions:
 
