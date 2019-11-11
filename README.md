@@ -64,7 +64,7 @@ Anaconda3 includes Python 3.7.
 
 The Jupyter Notebook [5] is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-As the Anaconda Distribution includes the Jupyter as well, there was no need to download and install it separately.
+As the Anaconda Distribution includes Jupyter as well, there was no need to download and install it separately.
 
 <https://jupyter.org/install>
 
